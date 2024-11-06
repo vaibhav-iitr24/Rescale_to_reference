@@ -5,4 +5,4 @@
 
 3] Scripts directory created in main directory, contain scripts for to obtain frequency, to extract lines and plot graph. 
 
-4] snakemake file created in main directory, required scripts and rules are incorporated. Snakemake environment activated, run command  " snakemake --snakefile rescale_to_reference.smk generated_demo/comparison_graph_demo.png -j1". Here demo is sample name you can change it as per requirement.
+4] Snakemake(rescale_to_reference.smk) file created in main directory, required scripts and rules are incorporated. Snakemake environment activated, run command  " snakemake --snakefile rescale_to_reference.smk generated_demo/comparison_graph_demo.png -j1". Here demo is sample name you can change it as per requirement.
