@@ -1,0 +1,4 @@
+run	file_path
+
+a	data/shuf.a.bed
+b	data/shuf.b.bed
